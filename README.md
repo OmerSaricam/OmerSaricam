@@ -22,24 +22,23 @@
 
 ---
 
-### 🚀 Featured Projects
+### 📈 GitHub Stats & Language Usage
 
-- 🧠 **[Hardware Trojan Detection with GNNs](#)**  
-  Classify Trojan-injected Verilog circuits using GCN, GIN, GAT, and GraphSAGE
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmerSaricam&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerSaricam&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
+</p>
 
-- 🎮 **[VeloVenture](#)**  
-  Ride a real bike to control a virtual game – Embedded + Sensors + Real-time sync
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmerSaricam&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
-- 🦷 **[Dental CRM & Appointment System](#)**  
-  Full-stack patient management platform using Node.js and MongoDB
-
----
-
-### 📌 Pinned Projects
-
-Check out my pinned repositories to see what I'm currently proud of 👇  
-You’ll find deep learning projects, embedded integrations, and full-stack apps.
-
+<!-- GitHub Trophies (isteğe bağlı görsel statlar) -->
+<!--
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OmerSaricam&theme=tokyonight&no-frame=true&column=7" />
+</p>
+-->
 ---
 
 ### 📫 Let's Connect
