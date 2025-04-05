@@ -7,9 +7,9 @@
 
 ### 🧠 Current Focus
 
-- 🔬 Exploring Graph Neural Networks & AI Security
-- 💡 Designing systems that bridge ML and hardware
-- 📚 Learning more about deep learning internals and scalable architectures
+- Exploring Graph-based Learning, Reinforcement Learning, and Computer Vision
+- Designing systems that bridge ML and hardware
+- Learning more about deep learning internals and scalable architectures
 
 ---
 
