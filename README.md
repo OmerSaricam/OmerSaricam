@@ -8,17 +8,18 @@
 ### 🧠 Current Focus
 
 - Exploring Graph-based Learning, Reinforcement Learning, and Computer Vision
-- Designing systems that bridge ML and hardware
+- Building intelligent systems by integrating AI into real-world applications
+- Working with C in system-level programming and parallel processing
 - Learning more about deep learning internals and scalable architectures
 
 ---
 
 ### 🛠️ Tech Stack I Enjoy Working With
 
-- **Languages:** Python · C++ · Verilog · JavaScript
+- **Languages:** C · C++ · Java · Python · Verilog · JavaScript
 - **ML & DL:** PyTorch · TensorFlow · Scikit-learn · PyTorch Geometric
 - **Tools:** Flask · Docker · OpenCV · YOLO · MongoDB · PostgreSQL
-- **Other:** Git · Linux · ESP32 · Unreal Engine
+- **Other:** Git · Linux · ESP32 
 
 ---
 
