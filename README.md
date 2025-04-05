@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tech Stack I Enjoy Working With
+### 🛠️ Tech Stack
 
 - **Languages:** C · C++ · Java · Python · Verilog · JavaScript
 - **ML & DL:** PyTorch · TensorFlow · Scikit-learn · PyTorch Geometric
