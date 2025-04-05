@@ -22,25 +22,6 @@
 
 ---
 
-### 📈 GitHub Stats & Language Usage
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmerSaricam&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerSaricam&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmerSaricam&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
-<!-- GitHub Trophies (isteğe bağlı görsel statlar) -->
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmerSaricam&theme=tokyonight&no-frame=true&column=7" />
-</p>
--->
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mersar%C4%B1%C3%A7am)
